@@ -1,0 +1,68 @@
+{
+  "title": "Sodium-Channelopathies-ASD-DEE v1.0.0: code and derived data for 'Cell-type-specific biophysical modeling reveals modifier-dependent phenotypic divergence in sodium channelopathies: a computational framework for the autism-epilepsy spectrum'",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Reproducible multiscale biophysical and transcriptomic modeling pipeline (Python) resolving how identical mutations in voltage-gated sodium channels (SCN1A, SCN2A, SCN8A) produce divergent neurodevelopmental phenotypes spanning autism spectrum disorder (ASD), intellectual disability, and developmental and epileptic encephalopathies (DEE). Integrates modified Hodgkin-Huxley conductance formalisms, empirical transcriptomic stoichiometries from The Human Protein Atlas (tissue nTPM and single-cell nCPM), ontogenetic trajectories from BrainSpan, and epistatic modifier gene interactions (Gabra2 and Cacna1g). Derived data, results tables, and figures CC BY 4.0.",
+  "creators": [
+    {
+      "name": "González-Paz, Lenin",
+      "affiliation": "Centro de Biomedicina Molecular (CBM), Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-0023-7342"
+    },
+    {
+      "name": "Alvarado, Ysaías J.",
+      "affiliation": "Centro de Biomedicina Molecular (CBM), Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0002-2709-409X"
+    },
+    {
+      "name": "Quintero, Máximo",
+      "affiliation": "SAHUM; Universidad del Zulia"
+    },
+    {
+      "name": "Cardozo-Urdaneta, Arlene",
+      "affiliation": "Centro de Biomedicina Molecular (CBM), Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0009-0009-7400-2950"
+    },
+    {
+      "name": "Lossada, Carla",
+      "affiliation": "Centro de Biomedicina Molecular (CBM), Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-3346-7101"
+    },
+    {
+      "name": "Marrero-Ponce, Yovani",
+      "affiliation": "Universidad Panamericana; Universidad San Francisco de Quito",
+      "orcid": "0000-0003-2721-1142"
+    },
+    {
+      "name": "Martinez-Rios, Félix",
+      "affiliation": "Universidad Panamericana",
+      "orcid": "0000-0002-2346-5922"
+    },
+    {
+      "name": "Pérez-Castillo, Yunierkis",
+      "affiliation": "Universidad de las Américas",
+      "orcid": "0000-0002-3710-0035"
+    },
+    {
+      "name": "Delgado, Ariana",
+      "affiliation": "Centro de Biomedicina Molecular (CBM), Instituto Venezolano de Investigaciones Científicas (IVIC)",
+      "orcid": "0000-0003-2426-779X"
+    }
+  ],
+  "keywords": [
+    "voltage-gated sodium channels",
+    "channelopathies",
+    "SCN2A",
+    "SCN1A",
+    "SCN8A",
+    "autism spectrum disorder",
+    "developmental and epileptic encephalopathy",
+    "biophysical modeling",
+    "Hodgkin-Huxley",
+    "genetic modifiers",
+    "epistasis",
+    "Gabra2"
+  ]
+}
